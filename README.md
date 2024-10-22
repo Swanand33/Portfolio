@@ -1,4 +1,4 @@
-# Swanand's Portfolio
+# Portfolio
 
 ![Screenshot 2024-10-22 122924](https://github.com/user-attachments/assets/bb3cb453-5368-466f-acb0-9a4bc116b2e5)
 
